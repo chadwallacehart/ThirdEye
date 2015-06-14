@@ -36,8 +36,8 @@
           <file leaf-file-name="viewer.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/viewer.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.5553398">
-                  <caret line="41" column="33" selection-start-line="41" selection-start-column="33" selection-end-line="41" selection-end-column="33" />
+                <state vertical-scroll-proportion="0.9252747">
+                  <caret line="68" column="34" selection-start-line="68" selection-start-column="34" selection-end-line="68" selection-end-column="34" />
                   <folding />
                 </state>
               </provider>
@@ -57,11 +57,11 @@
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="thirdeyewsc.js" pinned="false" current-in-tab="true">
+          <file leaf-file-name="thirdeyewsc.js" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/js/thirdeyewsc.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.68359375">
-                  <caret line="335" column="8" selection-start-line="335" selection-start-column="8" selection-end-line="335" selection-end-column="8" />
+                <state vertical-scroll-proportion="-4.0740743">
+                  <caret line="336" column="0" selection-start-line="336" selection-start-column="0" selection-end-line="336" selection-end-column="0" />
                   <folding>
                     <element signature="n#!!doc;n#getVideo#0" expanded="false" />
                   </folding>
@@ -69,14 +69,13 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="controls.js" pinned="false" current-in-tab="false">
+          <file leaf-file-name="controls.js" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/js/controls.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="-26.481482">
-                  <caret line="351" column="0" selection-start-line="351" selection-start-column="0" selection-end-line="351" selection-end-column="0" />
+                <state vertical-scroll-proportion="0.7676991">
+                  <caret line="156" column="5" selection-start-line="156" selection-start-column="5" selection-end-line="156" selection-end-column="5" />
                   <folding>
                     <element signature="e#0#38#0" expanded="false" />
-                    <element signature="e#4677#6132#0" expanded="false" />
                   </folding>
                 </state>
               </provider>
@@ -101,9 +100,9 @@
         <option value="$PROJECT_DIR$/js/demosupport.js" />
         <option value="$PROJECT_DIR$/eye.html" />
         <option value="$PROJECT_DIR$/js/motion.js" />
-        <option value="$PROJECT_DIR$/js/controls.js" />
         <option value="$PROJECT_DIR$/js/thirdeyewsc.js" />
         <option value="$PROJECT_DIR$/viewer.html" />
+        <option value="$PROJECT_DIR$/js/controls.js" />
       </list>
     </option>
   </component>
@@ -115,10 +114,9 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1625" />
-    <option name="y" value="56" />
-    <option name="width" value="1551" />
-    <option name="height" value="937" />
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="877" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -280,10 +278,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1625" y="56" width="1551" height="937" extended-state="6" />
-    <editor active="false" />
+    <frame x="0" y="23" width="1440" height="877" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3289941" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.35414013" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32991013" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -301,6 +299,14 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -386,21 +392,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/controls.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-26.481482">
-          <caret line="351" column="0" selection-start-line="351" selection-start-column="0" selection-end-line="351" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#38#0" expanded="false" />
-            <element signature="e#4677#6132#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/thirdeyewsc.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.68359375">
-          <caret line="335" column="8" selection-start-line="335" selection-start-column="8" selection-end-line="335" selection-end-column="8" />
+        <state vertical-scroll-proportion="-4.0740743">
+          <caret line="336" column="0" selection-start-line="336" selection-start-column="0" selection-end-line="336" selection-end-column="0" />
           <folding>
             <element signature="n#!!doc;n#getVideo#0" expanded="false" />
           </folding>
@@ -409,9 +404,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/viewer.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5553398">
-          <caret line="41" column="33" selection-start-line="41" selection-start-column="33" selection-end-line="41" selection-end-column="33" />
+        <state vertical-scroll-proportion="0.9252747">
+          <caret line="68" column="34" selection-start-line="68" selection-start-column="34" selection-end-line="68" selection-end-column="34" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/controls.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7676991">
+          <caret line="156" column="5" selection-start-line="156" selection-start-column="5" selection-end-line="156" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#38#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>

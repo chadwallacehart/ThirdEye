@@ -155,6 +155,14 @@ $(window).on('alert', function(){
             beep(660, 500, 1500);
         }
     }
+
+    /*
+        $('#alert').show().css("background-color","red").toggle("highlight");
+
+        setTimeout( function(){
+            $('body').hide().css("background-color","white").toggle("highlight");
+        }, 250);
+    */
 });
 
 
